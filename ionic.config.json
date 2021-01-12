@@ -1,0 +1,7 @@
+{
+  "name": "tp6+7",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
